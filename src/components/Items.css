@@ -1,0 +1,12 @@
+.container {
+    background-color: #B7D5D0;
+    /* width: 30%; */
+    /* border: 3px solid rgb(70, 63, 63); */
+    color: black;
+    display: block;
+    object-fit: cover;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+}

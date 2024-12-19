@@ -1,0 +1,292 @@
+{
+  "items": [
+     {
+        "key": 1,
+        "namePL": "Chłopi",
+        "nameEN": "Chłopi",
+	"director": "DK Welchman, Hugh Welchman",
+	"img": "chlopi.jpg"
+      },
+      {
+        "key": 2, 
+        "namePL": "Matka siedzi z tyłu",
+        "nameEN": "Á ferð með mömmu",
+	"director": "Hilmar Oddsson",
+	"img": "matka.jpg"
+      },
+      {
+        "key": 3,
+        "namePL": "Dream Scenario",
+        "nameEN": "Dream Scenario",
+	"director": "Kristoffer Borgli",
+	"img": "dream.jpg"
+      },
+      {
+        "key": 4,
+        "namePL": "La Chimera",
+        "nameEN": "La Chimera",
+	"director": "Alice Rohrwacher",
+	"img": "lacimera.jpg"
+      },
+      {
+        "key": 5,
+        "namePL": "Lepsze jutro",
+        "nameEN": "Il sol dell'avvenire",
+	"director": "Nanni Moretti",
+	"img": "lepsze.jpg"
+      },
+      {
+        "key": 6,
+        "namePL": "The Palace",
+        "nameEN": "The Palace",
+	"director": "Roman Polański",
+	"img": "palace.jpg"
+      },
+      {
+        "key": 7,
+        "namePL": "Opadające liście",
+        "nameEN": "Kuolleet lehdet",
+	"director": "Aki Kaurismäki",
+	"img": "liscie.jpg"
+      },
+      {
+        "key": 8,
+        "namePL": "Ultima Thule",
+        "nameEN": "Ultima Thule",
+	"director": "Klaudiusz Chrostowski",
+	"img": "ultima.jpg"
+      },
+      {
+        "key": 9,
+        "namePL": "Kos",
+        "nameEN": "Kos",
+	"director": "Paweł Maślona",
+	"img": "kos.jpg"
+      },
+      {
+        "key": 10,
+        "namePL": "Dogman",
+        "nameEN": "Dogman",
+	"director": "Luc Besson",
+	"img": "dogman.jpg"
+      },
+      {
+        "key": 11,
+        "namePL": "Obsesja",
+        "nameEN": "May December",
+	"director": "Todd Haynes",
+	"img": "obsesja.jpg"
+      },
+      {
+        "key": 12,
+        "namePL": "Bękart",
+        "nameEN": "Bastarden",
+	"director": "Nikolaj Arcel",
+	"img": "bekart.jpg"
+      },
+      {
+        "key": 13,
+        "namePL": "Anatomia upadku",
+        "nameEN": "Anatomie d'une chute",
+	"director": "Justine Triet",
+	"img": "anatomia.jpg"
+      },
+      {
+        "key": 14,
+        "namePL": "Strefa Interesów",
+        "nameEN": "The Zone of Interest",
+	"director": "Jonathan Glazer",
+	"img": "strefa.jpg"
+      },
+      {   
+        "key": 15,
+        "namePL": "20 dni w Mariupolu",
+        "nameEN": "20 dniv v Mariupoli",
+	"director": "Mstyslav Chernov",
+	"img": "20_dni.jpg"
+      },
+      {
+        "key": 16,
+        "namePL": "Czasem myślę o umieraniu",
+        "nameEN": "Sometimes I Think About Dying",
+	"director": "Rachel Lambert",
+	"img": "czasem.jpg"
+      },
+      {
+        "key": 17,
+        "namePL": "Czerwone niebo",
+        "nameEN": "Roter Himmel",
+	"director": "Christian Petzold",
+	"img": "czerwone.jpg"
+      },
+      {
+        "key": 18,
+        "namePL": "Pamięć",
+        "nameEN": "Memory",
+	"director": "Michel Franco",
+	"img": "pamiec.jpg"
+      },
+      {
+        "key": 19,
+        "namePL": "Perfect Days",
+        "nameEN": "Perfect Days",
+	"director": "Wim Wenders",
+	"img": "perfect.jpg"
+      },
+      {
+        "key": 20,
+        "namePL": "The Old Oak",
+        "nameEN": "The Old Oak",
+	"director": "Ken Loach",
+	"img": "oak.jpg"
+      },
+      {
+        "key": 21,
+        "namePL": "Monster",
+        "nameEN": "Kaibutsu",
+	"director": "Hirokazu Koreeda",
+	"img": "monster.jpg"
+      },
+      {
+        "key": 22,
+        "namePL": "Kolacja pożegnalna",
+        "nameEN": "Letzter Abend",
+	"director": "Lukas Nathrath",
+	"img": "kolacja.jpg"
+      },
+      {
+        "key": 23,
+        "namePL": "Hit Man",
+        "nameEN": "Hit Man",
+	"director": "Richard Linklater",
+	"img": "hit_man.jpg"
+      },
+      {
+        "key": 24,
+        "namePL": "Do usług szanownej pani",
+        "nameEN": "Complètement cramé!",
+	"director": "Gilles Legardinier",
+	"img": "do_uslug.jpg"
+      },
+      {
+        "key": 25,
+        "namePL": "Tylko my dwoje",
+        "nameEN": "L'amour et les forêts",
+	"director": "Valérie Donzelli",
+	"img": "Tylko.jpg"
+      },
+      {
+        "key": 26,
+        "namePL": "Test na teściów",
+        "nameEN": "Cocorico",
+	"director": "Julien Hervé",
+	"img": "test.jpg"
+      },
+      {
+        "key": 27,
+        "namePL": "Wredne liściki",
+        "nameEN": "Wicked Little Letters",
+	"director": "Thea Sharrock",
+	"img": "wicked.jpg"
+      },
+      {
+        "key": 28,
+        "namePL": "Wytłumaczenie wszystkiego",
+        "nameEN": "Magyarázat mindenre",
+	"director": "Gábor Reisz",
+	"img": "wytlumaczenie.jpg"
+      },
+      {
+        "key": 29,
+        "namePL": "Jutro będzie nasze",
+        "nameEN": "C'è ancora domani",
+	"director": "Paola Cortellesi",
+	"img": "jutro.jpg"
+      },
+      {
+        "key": 30,
+        "namePL": "Bulion namiętności",
+        "nameEN": "La passion de Dodin Bouffant",
+	"director": "Anh Hung Tran",
+	"img": "bulion.jpg"
+      },
+      {
+        "key": 31,
+        "namePL": "Kuchenna rewolucja",
+        "nameEN": "Coup!",
+	"director": "Joseph Schuman, Austin Stark",
+	"img": "kuchenne.jpg"
+      },
+      {
+        "key": 32,
+        "namePL": "Tatami",
+        "nameEN": "Tatami",
+	"director": "Zar Amir Ebrahimi, Guy Nattiv",
+	"img": "tatami.jpg"
+      },
+      {
+        "key": 33,
+        "namePL": "Mnich i karabin",
+        "nameEN": "The Monk and the Gun",
+	"director": "Pawo Choyning Dorji",
+	"img": "Mnich.jpg"
+      },
+      {
+        "key": 34,
+        "namePL": "Idź pod prąd",
+        "nameEN": "Idź pod prąd",
+	"director": "Wiesław Paluch",
+	"img": "ksu.jpg"
+      },
+      {
+        "key": 35,
+        "namePL": "Oldboy",
+        "nameEN": "Oldeuboi",
+	"director": "Chan-wook Park",
+	"img": "oldboy.jpg"
+      },
+      {
+        "key": 36,
+        "namePL": "Pod Wulkanem",
+        "nameEN": "Pod Wulkanem",
+	"director": "Damian Kocur",
+	"img": "pod_wulkanem.jpg"
+      },
+      {
+        "key": 37,
+        "namePL": "Cisza nocna",
+        "nameEN": "Cisza nocna",
+	"director": "Bartosz M. Kowalski",
+	"img": "cisza.jpg"
+      },
+      {
+        "key": 38,
+        "namePL": "Sezony",
+        "nameEN": "Sezony",
+	"director": "Michał Grzybowski",
+	"img": "sezony.jpg"
+      },
+      {
+        "key": 39,
+        "namePL": "Megalopolis",
+        "nameEN": "Megalopolis",
+	"director": "Francis Ford Coppola",
+	"img": "Megalopolis.jpg"
+      },
+      {
+        "key": 40,
+        "namePL": "Moje ulubione ciasto",
+        "nameEN": "Keyke mahboobe man",
+	"director": "Maryam Moghadam, Behtash Sanaeeha",
+	"img": "ciasto.jpg"
+      },
+      {
+        "key": 41,
+        "namePL": "Czas apokalipsy",
+        "nameEN": "Apocalypse Now",
+	"director": "Francis Ford Coppola",
+	"img": "czas.jpg"
+      }
+    ]
+}
+
