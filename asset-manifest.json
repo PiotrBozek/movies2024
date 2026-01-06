@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/movies2024/static/css/main.357b9dd6.css",
-    "main.js": "/movies2024/static/js/main.57737ecb.js",
+    "main.css": "/movies2024/static/css/main.049cb6b9.css",
+    "main.js": "/movies2024/static/js/main.992b4d7d.js",
     "static/media/film.jpg": "/movies2024/static/media/film.5b4622ac4abf8659c8d2.jpg",
     "static/media/kontinental.jpg": "/movies2024/static/media/kontinental.330a6fa755bd36e03f09.jpg",
     "static/media/diabli.jpg": "/movies2024/static/media/diabli.ee4b96aa420dbfa5dfc6.jpg",
@@ -42,12 +42,14 @@
     "static/media/sztuka.jpg": "/movies2024/static/media/sztuka.f57f21bf71a00085d281.jpg",
     "static/media/kafka.jpg": "/movies2024/static/media/kafka.37025a6f2259b2bb9bd2.jpg",
     "static/media/mizerykordia.jpg": "/movies2024/static/media/mizerykordia.509c39881f6882f68b60.jpg",
+    "static/media/logo_YT.jpg": "/movies2024/static/media/logo_YT.f08ea219895e357a5708.jpg",
+    "static/media/logo_YT.png": "/movies2024/static/media/logo_YT.2226b41de6fde9ce156d.png",
     "index.html": "/movies2024/index.html",
-    "main.357b9dd6.css.map": "/movies2024/static/css/main.357b9dd6.css.map",
-    "main.57737ecb.js.map": "/movies2024/static/js/main.57737ecb.js.map"
+    "main.049cb6b9.css.map": "/movies2024/static/css/main.049cb6b9.css.map",
+    "main.992b4d7d.js.map": "/movies2024/static/js/main.992b4d7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.357b9dd6.css",
-    "static/js/main.57737ecb.js"
+    "static/css/main.049cb6b9.css",
+    "static/js/main.992b4d7d.js"
   ]
 }
