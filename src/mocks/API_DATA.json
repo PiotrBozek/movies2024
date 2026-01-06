@@ -5,280 +5,320 @@
         "namePL": "Crossing",
         "nameEN": "Crossing",
 	      "director": "Levan Akin",
-	      "img": "crossing.jpg"
+	      "img": "crossing.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=vIeCasdo-b0"
       },
       {
         "key": 2, 
         "namePL": "Beating Hearts",
         "nameEN": "Beating Hearts",
 	      "director": "Gilles Lellouche",
-	      "img": "hearts.jpg"
+	      "img": "hearts.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=A3VEjy9xb5A"
       },
       {
         "key": 3,
         "namePL": "Kneecap. Hip-hopowa rewolucja",
         "nameEN": "Kneecap",
 	      "director": "Rich Peppiatt",
-	      "img": "kneecap.jpg"
+	      "img": "kneecap.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=qDP5z0OrAA0"
       },
       {
         "key": 4,
         "namePL": "W pokoju obok",
         "nameEN": "La habitación de al lado",
 	      "director": "Pedro Almodóvar",
-	      "img": "wpokoju.jpg"
+	      "img": "wpokoju.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=X8KTc68tFkA"
       },
       {
         "key": 5,
         "namePL": "Kiedy nadchodzi jesień",
         "nameEN": "Quand vient l'automne",
 	      "director": "François Ozon",
-	      "img": "jesien.jpg"
+	      "img": "jesien.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=HdkadK6pfBk"
       },
       {
         "key": 6,
         "namePL": "To nie mój film",
         "nameEN": "To nie mój film",
 	      "director": "Maria Zbąska",
-	      "img": "film.jpg"
+	      "img": "film.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=y2AlE6A3q14"
       },
       {
         "key": 7,
         "namePL": "Stop Making Sense",
         "nameEN": "Stop Making Sense",
 	      "director": "Jonathan Demme",
-	      "img": "talking.jpg"
+	      "img": "talking.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=QeOqx3jnX6c"
       },
       {
         "key": 8,
         "namePL": "Dziewczyna z igłą",
         "nameEN": "Pigen med nålen",
 	      "director": "Magnus von Horn",
-	      "img": "igla.jpg"
+	      "img": "igla.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=o6I1ecJLspY"
       },
       {
         "key": 9,
         "namePL": "Sztuka pięknego życia",
         "nameEN": "We Live in Time",
 	      "director": "John Crowley",
-	      "img": "sztuka.jpg"
+	      "img": "sztuka.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=Lp-Sy030Ugk"
       },
       {
         "key": 10,
         "namePL": "Niech to diabli!",
         "nameEN": "Vingt dieux",
 	      "director": "Louise Courvoisier",
-	      "img": "diabli.jpg"
+	      "img": "diabli.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=geZM1oM0sIE"
       },
       {
         "key": 11,
         "namePL": "Babygirl",
         "nameEN": "Babygirl",
 	      "director": "Halina Reijn",
-	      "img": "babygirl.jpg"
+	      "img": "babygirl.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=wulpP-IhVT4"
       },
       {
         "key": 12,
         "namePL": "Emilia Perez",
         "nameEN": "Emilia Perez",
 	      "director": "Jacques Audiard",
-	      "img": "Perez.jpg"
+	      "img": "Perez.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=5sceawet5Xs"
       },
       {
         "key": 13,
         "namePL": "Innego końca nie będzie",
         "nameEN": "Innego końca nie będzie",
 	      "director": "Monika Majorek",
-	      "img": "koniec.jpg"
+	      "img": "koniec.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=XKjsXcSyPkw"
       },
       {
         "key": 14,
         "namePL": "Nasienie świętej Figi",
         "nameEN": "Danaye anjir-e moabad",
 	      "director": "Mohammad Rasoulof",
-	      "img": "figa.jpg"
+	      "img": "figa.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=9F7gg8mCMbA"
       },
       {   
         "key": 15,
         "namePL": "Jutro o świcie",
         "nameEN": "Ljósbrot",
 	      "director": "Rúnar Rúnarsson",
-	      "img": "jutro.jpg"
+	      "img": "jutro.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=5aTri13nRGg"
       },
       {
         "key": 16,
         "namePL": "Bogini Partenope",
         "nameEN": "Parthenope",
 	      "director": "Paolo Sorrentino",
-	      "img": "bogini.jpg"
+	      "img": "bogini.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=CAU778uDvDY"
       },
       {
         "key": 17,
         "namePL": "Skrzyżowanie",
         "nameEN": "Skrzyżowanie",
 	      "director": "Dominika Montean-Pańków",
-	      "img": "skrzyzowanie.jpg"
+	      "img": "skrzyzowanie.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=3tzciRQKcJA"
       },
       {
         "key": 18,
         "namePL": "Apetyt na więcej. La Cocina",
         "nameEN": "La Cocina",
 	      "director": "Alonso Ruizpalacios",
-	      "img": "lacocina.jpg"
+	      "img": "lacocina.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=4pt0vaewrlw"
       },
       {
         "key": 19,
         "namePL": "Wspaniały świat",
         "nameEN": "Un monde merveilleux",
 	      "director": "Giulio Callegari",
-	      "img": "wspanialy.jpg"
+	      "img": "wspanialy.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=qbtUGYqz6kQ"
       },
       {
         "key": 20,
         "namePL": "Utrata równowagi",
         "nameEN": "Utrata równowagi",
 	      "director": "Korek Bojanowski",
-	      "img": "utrata.jpg"
+	      "img": "utrata.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=ChnS4hCoOzA"
       },
       {
         "key": 21,
         "namePL": "The Last Showgirl",
         "nameEN": "The Last Showgirl",
 	      "director": "Gia Coppola",
-	      "img": "showgirl.jpg"
+	      "img": "showgirl.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=BGtXTmOemAc"
       },
       {
         "key": 22,
         "namePL": "Lapońska odyseja",
         "nameEN": "Napapiirin sankarit",
 	      "director": "Dome Karukoski",
-	      "img": "odyseja.jpg"
+	      "img": "odyseja.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=S7QI3irpZdI"
       },
       {
         "key": 23,
         "namePL": "Fremont",
         "nameEN": "Fremont",
 	      "director": "Babak Jalali",
-	      "img": "fremont.jpg"
+	      "img": "fremont.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=uirAMwIbCqo&t=5s"
       },
       {
         "key": 24,
         "namePL": "Mizerykordia",
         "nameEN": "Miséricorde",
 	      "director": "Alain Guiraudie",
-	      "img": "mizerykordia.jpg"
+	      "img": "mizerykordia.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=Pi7mT9Smbvc"
       },
       {
         "key": 25,
         "namePL": "Wszystkie odcienie światła",
         "nameEN": "All We Imagine as Light",
 	      "director": "Payal Kapadia",
-	      "img": "swiatla.jpg"
+	      "img": "swiatla.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=GwWRerWDEfA"
       },
       {
         "key": 26,
         "namePL": "Follemente. W tym szaleństwie jest metoda",
         "nameEN": "Follemente",
 	      "director": "Paolo Genovese",
-	      "img": "follemente.jpg"
+	      "img": "follemente.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=xJIE9LQA3ak"
       },
       {
         "key": 27,
         "namePL": "Dziewczyna z Kolonii",
         "nameEN": "Köln 75",
 	      "director": "Ido Fluk",
-	      "img": "koln.jpg"
+	      "img": "koln.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=YfxMM8RpAjw"
       },
       {
         "key": 28,
         "namePL": "Paw zwyczajny",
         "nameEN": "Pfau",
 	      "director": "Bernhard Wenger",
-	      "img": "paw.jpg"
+	      "img": "paw.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=zD6IOQW0O3c&t=2s"
       },
       {
         "key": 29,
         "namePL": "Stan wyjątkowy",
         "nameEN": "Výjimečný stav",
 	      "director": "Jan Hřebejk",
-	      "img": "stan.jpg"
+	      "img": "stan.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=jmCw0sWeyzY"
       },
       {
         "key": 30,
         "namePL": "Diamenty",
         "nameEN": "Diamanti",
 	      "director": "Ferzan Özpetek",
-	      "img": "diamenty.jpg"
+	      "img": "diamenty.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=anceDjfTLLc"
       },
       {
         "key": 31,
         "namePL": "Kontinental '25",
         "nameEN": "Kontinental '25",
 	      "director": "Radu Jude",
-	      "img": "kontinental.jpg"
+	      "img": "kontinental.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=bVOLri0FlF8"
       },
       {
         "key": 32,
         "namePL": "Cinema Paradiso",
         "nameEN": "Nuovo cinema Paradiso",
 	      "director": "Giuseppe Tornatore",
-	      "img": "cinema.jpg"
+	      "img": "cinema.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=FkEfDjCRKG8"
       },
       {
         "key": 33,
         "namePL": "Droga do Vermiglio",
         "nameEN": "Vermiglio",
 	      "director": "Maura Delpero",
-	      "img": "vermiglio.jpg"
+	      "img": "vermiglio.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=g_WXN4s5jPk"
       },
       {
         "key": 34,
         "namePL": "Ostatni wiking",
         "nameEN": "Den sidste viking",
 	      "director": "Anders Thomas Jensen",
-	      "img": "wiking.jpg"
+	      "img": "wiking.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=NzWGdC1YOYo"
       },
       {
         "key": 35,
         "namePL": "Chopin, Chopin",
         "nameEN": "Chopin, Chopin",
 	      "director": "Michał Kwieciński",
-	      "img": "chopin.jpg"
+	      "img": "chopin.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=r6zqpnBuwTU"
       },
       {
         "key": 36,
         "namePL": "Franz Kafka",
         "nameEN": "Franz",
 	      "director": "Agnieszka Holland",
-	      "img": "kafka.jpg"
+	      "img": "kafka.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=YYkEhPeM5iY"
       },
       {
         "key": 37,
         "namePL": "Funny games",
         "nameEN": "Funny games",
 	      "director": "Michael Haneke",
-	      "img": "games.jpg"
+	      "img": "games.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=XybKpY0zAA0"
       },
       {
         "key": 38,
         "namePL": "Być kochaną",
         "nameEN": "Elskling",
 	      "director": "Lilja Ingolfsdottir",
-	      "img": "kochana.jpg"
+	      "img": "kochana.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=QtWgpax2VGs"
       },
       {
         "key": 39,
         "namePL": "Błękitny szlak",
         "nameEN": "O último azul",
 	      "director": "Gabriel Mascaro",
-	      "img": "szlak.jpg"
+	      "img": "szlak.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=mY0ltgbsjU8"
       },
       {
         "key": 40,
         "namePL": "Rocznica",
         "nameEN": "Anniversary",
 	      "director": "Jan Komasa",
-	      "img": "rocznica.jpg"
+	      "img": "rocznica.jpg",
+        "linkYT": "https://www.youtube.com/watch?v=txt8mKFC-IY"
       }
     ]
 }

@@ -9,12 +9,11 @@ const App = () => {
 
   const [data, setData] = useState(DATA);
   const [val, setVal] = useState('');
-
+ 
   const onValueSubmit = (e) => {
   setVal(e); 
   const items = DATA.items.filter(item => item.namePL.toUpperCase().includes(e.toLocaleUpperCase()));
   setData({items});
-
   }
 
   return (
@@ -27,7 +26,7 @@ const App = () => {
         />
       </header>
       <main className='containerApp'>
-        <Items data = {data} />
+        <Items   data = {data} />
       </main>
       
     </div>
